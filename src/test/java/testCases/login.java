@@ -32,7 +32,7 @@ public class login extends Baseclass {
 				lp.usernameWebElement().clear();
 				lp.username(User);
 				System.out.println("vaibhav");
-				System.out.println("vaibhav");
+			
 				lp.passworedWebElement().clear();
 				lp.passwored(Pass);
 				lp.clickloginbutton();
