@@ -38,3 +38,27 @@
 [INFO ] 2026-06-07 13:50:17.767 [main] MyTestListener - ********************************************
 [INFO ] 2026-06-07 13:50:17.767 [main] MyTestListener - *****Test Case Pass:Login****
 [INFO ] 2026-06-07 13:50:17.767 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:31.057 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:31.063 [main] MyTestListener - *****Test Case Start:Invaild_Login_TC02****
+[INFO ] 2026-06-23 21:52:31.063 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:41.493 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:41.494 [main] MyTestListener - *****Test Case Pass:Invaild_Login_TC02****
+[INFO ] 2026-06-23 21:52:41.494 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:46.784 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:46.784 [main] MyTestListener - *****Test Case Start:Login****
+[INFO ] 2026-06-23 21:52:46.784 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:46.785 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:52:46.785 [main] MyTestListener - *****Test Case Pass:Login****
+[INFO ] 2026-06-23 21:52:46.785 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:33.537 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:33.542 [main] MyTestListener - *****Test Case Start:Invaild_Login_TC02****
+[INFO ] 2026-06-23 21:54:33.542 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:44.491 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:44.491 [main] MyTestListener - *****Test Case Pass:Invaild_Login_TC02****
+[INFO ] 2026-06-23 21:54:44.492 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:51.525 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:51.525 [main] MyTestListener - *****Test Case Start:Login****
+[INFO ] 2026-06-23 21:54:51.525 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:51.527 [main] MyTestListener - ********************************************
+[INFO ] 2026-06-23 21:54:51.527 [main] MyTestListener - *****Test Case Pass:Login****
+[INFO ] 2026-06-23 21:54:51.527 [main] MyTestListener - ********************************************

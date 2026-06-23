@@ -31,6 +31,8 @@ public class login extends Baseclass {
 				String Pass = Rc.ReadExcelData(EXCEL_PATH, "Invalidcreads", i, 1);
 				lp.usernameWebElement().clear();
 				lp.username(User);
+				System.out.println("vaibhav");
+				System.out.println("vaibhav");
 				lp.passworedWebElement().clear();
 				lp.passwored(Pass);
 				lp.clickloginbutton();
@@ -38,9 +40,8 @@ public class login extends Baseclass {
 
 		} 
 		catch (Exception e) {
-			e.printStackTrace(); // console वर दिसेल
-
-			throw e; // TestNG ला failure म्हणून throw करा
+			e.printStackTrace(); 
+			throw e;
 		}
 
 	}
