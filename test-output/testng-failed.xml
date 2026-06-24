@@ -6,9 +6,9 @@
       <class name="testCases.login">
         <methods>
           <include name="setup"/>
-          <include name="SetUp"/>
           <include name="tearDown"/>
-          <include name="Invaild_Login"/>
+          <include name="Invaild_Login_TC02"/>
+          <include name="init"/>
         </methods>
       </class> <!-- testCases.login -->
     </classes>

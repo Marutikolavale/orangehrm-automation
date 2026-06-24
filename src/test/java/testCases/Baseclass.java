@@ -41,7 +41,7 @@ public static WebDriver driver;
 			driver = new FirefoxDriver();
 			break;
 		default:
-			throw new Error("Enter correct brwoser valuesin config.properties file");	
+			throw new Error("Enter correct brwoser values in config.properties file");	
 		}		
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();

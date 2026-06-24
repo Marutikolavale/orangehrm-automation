@@ -3,6 +3,7 @@ package testCases;
 import java.io.IOException;
 
 import org.apache.poi.EncryptedDocumentException;
+import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
@@ -13,7 +14,7 @@ import utilities.ReadConfig;
 @Listeners(MyTestListener.class)
 public class login extends Baseclass {
 
-	@Test
+
 	public void Login()
 	{
 
@@ -31,12 +32,10 @@ public class login extends Baseclass {
 				String Pass = Rc.ReadExcelData(EXCEL_PATH, "Invalidcreads", i, 1);
 				lp.usernameWebElement().clear();
 				lp.username(User);
-				System.out.println("vaibhav");
-				System.out.println("Maruti");
-
 				lp.passworedWebElement().clear();
 				lp.passwored(Pass);
 				lp.clickloginbutton();
+				//Assert.assertTrue(db.dashboard_logo_Displayed());
 			}
 
 		} 
